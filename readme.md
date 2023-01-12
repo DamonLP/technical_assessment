@@ -1,6 +1,4 @@
-# Project Title
-
-Technical Assessment Solutions
+# Technical Assessment Solutions
 
 ## Description
 
@@ -11,8 +9,9 @@ Contain two questions
 
 ### Executing program
 
+For Question 1: Longest Palindromic Substring
 ```
-python longest_palindromic_substring.py babbab
+python solutions/longest_palindromic_substring.py babbab
 ```
 
 ## Authors
